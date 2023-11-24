@@ -47,12 +47,12 @@
             <artifactId>spring-boot-starter-aop</artifactId>
         </dependency>
 		
-		<!-- oracle驱动 -->
-		<dependency>
-			<groupId>com.oracle</groupId>
-			<artifactId>ojdbc6</artifactId>
-			<version>6.0</version>
-		</dependency>
+<!--		&lt;!&ndash; oracle驱动 &ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>com.oracle</groupId>-->
+<!--			<artifactId>ojdbc6</artifactId>-->
+<!--			<version>6.0</version>-->
+<!--		</dependency>-->
 		
 		<!-- druid数据源驱动 -->
 		<dependency>

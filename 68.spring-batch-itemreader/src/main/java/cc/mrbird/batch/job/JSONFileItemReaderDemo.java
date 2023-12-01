@@ -47,6 +47,6 @@ public class JSONFileItemReaderDemo {
         JsonItemReader<TestData> reader = new JsonItemReader<>(resource, jacksonJsonObjectReader);
         // 给reader设置一个别名
         reader.setName("testDataJsonItemReader");
-        return reader;
+        return reader;68.spring-batch-itemreader
     }
 }

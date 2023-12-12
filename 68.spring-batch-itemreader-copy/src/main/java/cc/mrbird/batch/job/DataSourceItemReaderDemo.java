@@ -23,7 +23,7 @@ import java.util.Map;
  * @version 1.0
  * @date 2023/12/1 14:48
  */
-@Component
+//@Component
 public class DataSourceItemReaderDemo {
     @Autowired
     private JobBuilderFactory jobBuilderFactory;
